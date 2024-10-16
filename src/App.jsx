@@ -5,7 +5,8 @@ function App() {
 
   return (
     <>
-    
+    <div>Text här?</div>
+    <h1>Fungerar sidan? ja tack</h1>
     </>
   )
 }
